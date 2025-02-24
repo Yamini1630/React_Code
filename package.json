@@ -1,0 +1,28 @@
+{
+  "name": "react_code",
+  "version": "1.0.0",
+  "description": "This is React Course",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamini1630/React_Code.git"
+  },
+  "author": "Yamini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yamini1630/React_Code/issues"
+  },
+  "homepage": "https://github.com/Yamini1630/React_Code#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
