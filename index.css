@@ -2,5 +2,9 @@
     display: flex;
 }
 .logo{
-    width: 200px;
+    width: 10px;
+}
+nav-items > ul{
+font-size: 24px;
+display: flex;
 }
