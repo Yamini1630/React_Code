@@ -11,7 +11,7 @@ const Header=()=>{
             <li>Hooome</li>
             <li>About</li>
             <li>Contact Us</li>
-            <li>Cart</li>
+            <li>Carrt</li>
         </ul>
     </div>
     </div>
